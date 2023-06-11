@@ -1,0 +1,72 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+#container{
+   margin: auto;
+   width: 50%;
+   height: 500px;
+   border: 1px solid rgb(120, 97, 129);
+   border-radius: 10px; 
+   padding: 10px;
+   background-color: rgb(57, 54, 90);
+}
+
+#inputbox{
+    margin: 0px 260px;
+}
+
+#input1{
+    margin-top: 130px;
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+    margin-bottom: 12px;
+}
+
+#input2{
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+#subbtn{
+    margin-top: 20px;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: rgb(59, 134, 45);
+    color: azure;
+}
+
+#buttonbox{
+    margin-left:  260px;
+    margin-right: 260px;   
+}
+
+#delbtn{
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: rgb(222, 56, 56);
+    color: azure;
+}
+
+#output{
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 260px;
+    font-size: 26px;
+    color: rgb(195, 200, 218);
+}
